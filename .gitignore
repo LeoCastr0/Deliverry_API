@@ -1,1 +1,4 @@
-Delivery_API.log
+Delivery_API.log,
+nodemon.json,
+package.json,
+package-lock.json

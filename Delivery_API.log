@@ -1,0 +1,229 @@
+2021-06-01T01:07:38.226Z [Delivery_API] info: API Started !
+2021-06-01T01:11:32.306Z [Delivery_API] info: POST /pedidos
+2021-06-01T01:11:32.595Z [Delivery_API] info: API Started !
+2021-06-01T01:13:30.139Z [Delivery_API] info: POST /pedidos
+2021-06-01T01:13:30.424Z [Delivery_API] info: API Started !
+2021-06-01T01:14:23.716Z [Delivery_API] info: API Started !
+2021-06-01T01:15:35.050Z [Delivery_API] info: API Started !
+2021-06-01T01:15:38.108Z [Delivery_API] error: POST /pedidos Cliente, produto e valor são obrigatórios.
+2021-06-01T01:28:49.136Z [Delivery_API] info: API Started !
+2021-06-01T01:28:55.956Z [Delivery_API] info: API Started !
+2021-06-01T01:31:28.360Z [Delivery_API] info: API Started !
+2021-06-01T01:42:36.304Z [Delivery_API] info: API Started !
+2021-06-01T01:44:19.932Z [Delivery_API] info: API Started !
+2021-06-01T01:44:48.889Z [Delivery_API] info: API Started !
+2021-06-01T01:47:46.369Z [Delivery_API] error: PUT /pedidos ID, clien, valor, produto e entregue S/N devem ser preenchidos
+2021-06-01T01:48:33.224Z [Delivery_API] info: API Started !
+2021-06-01T01:48:35.116Z [Delivery_API] error: PUT /pedidos PedidosRepository.atualizaPedidos is not a function
+2021-06-01T01:49:25.512Z [Delivery_API] info: API Started !
+2021-06-01T01:49:27.467Z [Delivery_API] error: PUT /pedidos PedidosRepository.atualizarPedidos is not a function
+2021-06-01T01:49:42.775Z [Delivery_API] info: API Started !
+2021-06-01T01:49:48.916Z [Delivery_API] error: PUT /pedidos data.pedidos.findeIndex is not a function
+2021-06-01T01:50:39.633Z [Delivery_API] info: API Started !
+2021-06-01T01:50:40.958Z [Delivery_API] error: PUT /pedidos data.pedidos.findeIndex is not a function
+2021-06-01T01:52:11.294Z [Delivery_API] info: API Started !
+2021-06-01T01:52:13.183Z [Delivery_API] error: PUT /pedidos data.pedidos.findeIndex is not a function
+2021-06-01T01:53:04.130Z [Delivery_API] info: API Started !
+2021-06-01T01:53:05.910Z [Delivery_API] error: PUT /pedidos Registro não encontrado
+2021-06-01T01:56:57.434Z [Delivery_API] info: API Started !
+2021-06-01T01:57:09.653Z [Delivery_API] info: API Started !
+2021-06-01T01:58:04.417Z [Delivery_API] info: PUT /pedidos/:id - {"id":2,"cliente":"Leonardo F Castro","produto":"Pizza Frago e catupiry","valor":45,"entregue":1}
+2021-06-01T01:58:04.718Z [Delivery_API] info: API Started !
+2021-06-01T02:00:35.646Z [Delivery_API] info: API Started !
+2021-06-01T02:00:38.430Z [Delivery_API] info: PUT /pedidos/:id - {"id":2,"cliente":"Leonardo F Castro","produto":"Pizza Frago e catupiry","valor":45,"entregue":1}
+2021-06-01T02:00:38.713Z [Delivery_API] info: API Started !
+2021-06-01T02:01:17.708Z [Delivery_API] info: API Started !
+2021-06-01T02:01:21.229Z [Delivery_API] info: PUT /pedidos/:id - {"id":2,"cliente":"Leonardo F Castro","produto":"Pizza Frago e catupiry","valor":45,"entregue":1}
+2021-06-01T02:01:21.514Z [Delivery_API] info: API Started !
+2021-06-01T02:01:44.745Z [Delivery_API] info: PUT /pedidos/:id - {"id":2,"cliente":"Leonardo F Castro","produto":"Pizza Frago e catupiry","valor":45,"entregue":true}
+2021-06-01T02:01:45.031Z [Delivery_API] info: API Started !
+2021-06-01T02:02:20.561Z [Delivery_API] info: API Started !
+2021-06-01T02:02:24.702Z [Delivery_API] error: PUT /pedidos boolean is not defined
+2021-06-01T02:07:39.921Z [Delivery_API] info: API Started !
+2021-06-01T02:07:44.805Z [Delivery_API] info: PUT /pedidos/:id - {"id":2,"cliente":"Leonardo F Castro","produto":"Pizza Frago e catupiry","valor":45,"entregue":1}
+2021-06-01T02:07:45.087Z [Delivery_API] info: API Started !
+2021-06-01T02:07:56.829Z [Delivery_API] info: PUT /pedidos/:id - {"id":2,"cliente":"Leonardo F Castro","produto":"Pizza Frago e catupiry","valor":45,"entregue":0}
+2021-06-01T02:07:57.109Z [Delivery_API] info: API Started !
+2021-06-01T02:20:18.878Z [Delivery_API] info: API Started !
+2021-06-01T02:27:49.900Z [Delivery_API] info: API Started !
+2021-06-01T02:29:27.079Z [Delivery_API] info: PATCH /pedidos/atualizarentrega {"id":2,"entregue":1}
+2021-06-01T02:29:27.367Z [Delivery_API] info: API Started !
+2021-06-01T02:35:43.150Z [Delivery_API] info: API Started !
+2021-06-01T02:39:33.723Z [Delivery_API] info: API Started !
+2021-06-01T02:39:45.918Z [Delivery_API] info: API Started !
+2021-06-01T02:43:39.582Z [Delivery_API] info: API Started !
+2021-06-01T02:47:43.874Z [Delivery_API] info: API Started !
+2021-06-01T02:48:44.253Z [Delivery_API] info: API Started !
+2021-06-01T02:48:45.487Z [Delivery_API] info: API Started !
+2021-06-01T02:48:54.381Z [Delivery_API] info: API Started !
+2021-06-01T02:49:38.597Z [Delivery_API] error: PATCH /pedidos PedidosRepository.atualizarEntrega is not a function
+2021-06-01T02:50:14.145Z [Delivery_API] info: API Started !
+2021-06-01T02:50:19.457Z [Delivery_API] info: PATCH /pedidos/atualizarentrega {"id":2,"entregue":1}
+2021-06-01T02:50:19.742Z [Delivery_API] info: API Started !
+2021-06-01T02:50:25.833Z [Delivery_API] info: PATCH /pedidos/atualizarentrega {"id":2,"entregue":1}
+2021-06-01T02:50:26.121Z [Delivery_API] info: API Started !
+2021-06-01T02:51:43.332Z [Delivery_API] info: API Started !
+2021-06-01T02:51:46.495Z [Delivery_API] error: PATCH /pedidos ID e entrege são necessários
+2021-06-01T22:18:38.387Z [Delivery_API] info: API Started !
+2021-06-01T22:19:18.885Z [Delivery_API] info: GET / pedido/:id
+2021-06-01T22:19:27.359Z [Delivery_API] info: GET / pedido/:id
+2021-06-01T22:19:34.993Z [Delivery_API] error: GET /pedidos Registro não encontrado.
+2021-06-01T22:24:36.404Z [Delivery_API] info: API Started !
+2021-06-01T22:25:48.978Z [Delivery_API] info: API Started !
+2021-06-01T22:26:41.707Z [Delivery_API] info: API Started !
+2021-06-01T22:30:04.895Z [Delivery_API] info: API Started !
+2021-06-01T22:30:16.667Z [Delivery_API] info: API Started !
+2021-06-01T22:30:42.813Z [Delivery_API] info: API Started !
+2021-06-01T22:33:27.168Z [Delivery_API] info: API Started !
+2021-06-01T22:33:29.638Z [Delivery_API] info: DELETE /pedidos/:id - 2
+2021-06-01T22:33:29.909Z [Delivery_API] info: API Started !
+2021-06-01T22:33:37.654Z [Delivery_API] info: API Started !
+2021-06-01T22:33:56.904Z [Delivery_API] info: DELETE /pedidos/:id - 505
+2021-06-01T22:33:57.167Z [Delivery_API] info: API Started !
+2021-06-01T22:36:38.168Z [Delivery_API] error: PATCH /pedidos ID e entrege são necessários
+2021-06-01T22:37:08.699Z [Delivery_API] info: API Started !
+2021-06-01T22:38:46.630Z [Delivery_API] info: API Started !
+2021-06-01T22:43:43.394Z [Delivery_API] info: PATCH /pedidos/atualizarentrega {"id":2,"entregue":1}
+2021-06-01T22:43:43.667Z [Delivery_API] info: API Started !
+2021-06-01T22:43:53.893Z [Delivery_API] error: PATCH /pedidos ID e entrege são necessários
+2021-06-01T22:44:08.425Z [Delivery_API] info: PATCH /pedidos/atualizarentrega {"id":2,"entregue":1}
+2021-06-01T22:44:08.692Z [Delivery_API] info: API Started !
+2021-06-01T22:44:51.164Z [Delivery_API] info: API Started !
+2021-06-01T22:44:58.358Z [Delivery_API] info: PATCH /pedidos/atualizarentrega {"id":2,"entregue":0}
+2021-06-01T22:44:58.651Z [Delivery_API] info: API Started !
+2021-06-01T22:45:04.256Z [Delivery_API] info: PATCH /pedidos/atualizarentrega {"id":2,"entregue":1}
+2021-06-01T22:45:04.532Z [Delivery_API] info: API Started !
+2021-06-01T22:56:07.771Z [Delivery_API] info: API Started !
+2021-06-02T00:23:40.752Z [Delivery_API] info: API Started !
+2021-06-02T00:26:51.987Z [Delivery_API] info: API Started !
+2021-06-02T00:48:30.489Z [Delivery_API] info: API Started !
+2021-06-02T00:48:48.198Z [Delivery_API] info: API Started !
+2021-06-02T00:58:28.026Z [Delivery_API] info: API Started !
+2021-06-02T01:01:29.602Z [Delivery_API] info: API Started !
+2021-06-02T01:09:31.838Z [Delivery_API] info: API Started !
+2021-06-02T01:10:52.970Z [Delivery_API] info: API Started !
+2021-06-02T01:10:53.819Z [Delivery_API] info: API Started !
+2021-06-02T01:12:23.211Z [Delivery_API] info: API Started !
+2021-06-02T01:14:48.091Z [Delivery_API] info: API Started !
+2021-06-02T01:16:02.531Z [Delivery_API] info: API Started !
+2021-06-02T01:16:04.046Z [Delivery_API] info: GET /pedidos/pedidoscliente - Tália Simas
+2021-06-02T01:16:08.116Z [Delivery_API] info: GET /pedidos/pedidoscliente - Tália Simas
+2021-06-02T01:17:56.630Z [Delivery_API] info: API Started !
+2021-06-02T01:17:57.982Z [Delivery_API] info: GET /pedidos/pedidoscliente - Tália Simas
+2021-06-02T01:18:01.337Z [Delivery_API] info: GET /pedidos/pedidoscliente - Tália Simas
+2021-06-02T01:27:26.192Z [Delivery_API] info: API Started !
+2021-06-02T01:28:35.282Z [Delivery_API] info: API Started !
+2021-06-02T01:29:50.706Z [Delivery_API] info: POST /pedidos/pedidoscliente - Tália Simas
+2021-06-02T01:34:34.472Z [Delivery_API] info: API Started !
+2021-06-02T01:34:37.901Z [Delivery_API] error: POST /pedidos res.sendstatus is not a function
+2021-06-02T01:35:09.843Z [Delivery_API] info: API Started !
+2021-06-02T01:35:14.898Z [Delivery_API] info: POST /pedidos/pedidoscliente - Tália Simas
+2021-06-02T01:40:03.800Z [Delivery_API] info: API Started !
+2021-06-02T01:40:49.709Z [Delivery_API] info: API Started !
+2021-06-02T01:40:58.402Z [Delivery_API] info: API Started !
+2021-06-02T01:41:07.538Z [Delivery_API] info: API Started !
+2021-06-02T01:41:19.351Z [Delivery_API] info: API Started !
+2021-06-02T01:41:56.837Z [Delivery_API] error: POST /pedidos pedidosRepository is not defined
+2021-06-02T01:45:00.632Z [Delivery_API] info: API Started !
+2021-06-02T01:45:17.300Z [Delivery_API] error: POST /pedidos pedidosRepository is not defined
+2021-06-02T01:45:18.595Z [Delivery_API] error: POST /pedidos pedidosRepository is not defined
+2021-06-02T01:45:27.219Z [Delivery_API] error: POST /pedidos pedidosRepository is not defined
+2021-06-02T01:46:05.543Z [Delivery_API] info: API Started !
+2021-06-02T01:46:08.558Z [Delivery_API] error: POST /pedidos pedidosRepository is not defined
+2021-06-02T01:47:24.254Z [Delivery_API] info: API Started !
+2021-06-02T01:51:17.913Z [Delivery_API] info: API Started !
+2021-06-02T01:51:47.545Z [Delivery_API] info: API Started !
+2021-06-02T01:51:52.141Z [Delivery_API] error: POST /pedidos pedidosRepository is not defined
+2021-06-02T01:55:37.585Z [Delivery_API] info: API Started !
+2021-06-02T01:55:42.130Z [Delivery_API] info: POST /pedidos/maisVendidos undefined
+2021-06-02T01:56:28.320Z [Delivery_API] info: API Started !
+2021-06-02T01:56:29.660Z [Delivery_API] info: POST /pedidos/maisVendidos 
+2021-06-02T01:57:49.074Z [Delivery_API] info: API Started !
+2021-06-02T01:57:59.990Z [Delivery_API] info: API Started !
+2021-06-02T01:58:02.873Z [Delivery_API] info: POST /pedidos/maisVendidos 
+2021-06-02T01:59:03.931Z [Delivery_API] info: API Started !
+2021-06-02T01:59:05.756Z [Delivery_API] info: POST /pedidos/maisVendidos 
+2021-06-02T02:01:57.721Z [Delivery_API] info: API Started !
+2021-06-02T02:02:47.029Z [Delivery_API] info: API Started !
+2021-06-02T02:03:51.888Z [Delivery_API] info: API Started !
+2021-06-02T02:03:53.765Z [Delivery_API] info: API Started !
+2021-06-02T02:04:16.484Z [Delivery_API] info: API Started !
+2021-06-02T02:04:23.173Z [Delivery_API] info: API Started !
+2021-06-02T02:05:29.266Z [Delivery_API] error: POST /pedidos Invalid status code: 0
+2021-06-02T02:07:18.242Z [Delivery_API] error: POST /pedidos Invalid status code: 0
+2021-06-02T02:09:04.847Z [Delivery_API] info: API Started !
+2021-06-02T02:09:09.305Z [Delivery_API] error: POST /pedidos Invalid status code: 0
+2021-06-02T02:09:10.219Z [Delivery_API] error: POST /pedidos Invalid status code: 0
+2021-06-02T02:10:00.522Z [Delivery_API] info: API Started !
+2021-06-02T02:10:01.942Z [Delivery_API] error: POST /pedidos Invalid status code: 1976
+2021-06-02T02:12:32.302Z [Delivery_API] info: API Started !
+2021-06-02T02:12:35.848Z [Delivery_API] error: POST /pedidos Invalid status code: 1976
+2021-06-02T02:15:31.042Z [Delivery_API] info: API Started !
+2021-06-02T02:15:34.523Z [Delivery_API] error: POST /pedidos Invalid status code: 1976
+2021-06-02T02:15:36.060Z [Delivery_API] error: POST /pedidos Invalid status code: 1976
+2021-06-02T02:16:01.074Z [Delivery_API] info: API Started !
+2021-06-02T02:18:31.169Z [Delivery_API] info: POST /pedidos/TotalCliente - Tália Simas
+2021-06-02T02:18:44.502Z [Delivery_API] error: POST /pedidos Invalid status code: 1976
+2021-06-02T02:19:08.989Z [Delivery_API] error: POST /pedidos Invalid status code: 1885
+2021-06-02T02:19:10.307Z [Delivery_API] error: POST /pedidos Invalid status code: 1885
+2021-06-02T02:20:09.527Z [Delivery_API] info: API Started !
+2021-06-02T02:23:17.463Z [Delivery_API] info: API Started !
+2021-06-02T02:26:20.616Z [Delivery_API] info: API Started !
+2021-06-02T02:26:28.078Z [Delivery_API] error: POST /pedidos Invalid status code: 1885
+2021-06-02T02:26:30.145Z [Delivery_API] error: POST /pedidos Invalid status code: 1885
+2021-06-02T02:27:17.647Z [Delivery_API] info: API Started !
+2021-06-02T02:27:19.527Z [Delivery_API] error: POST /pedidos res.sendStatus(...) is not a function
+2021-06-02T02:27:27.211Z [Delivery_API] error: POST /pedidos res.sendStatus(...) is not a function
+2021-06-02T02:27:48.850Z [Delivery_API] info: API Started !
+2021-06-02T02:27:51.354Z [Delivery_API] error: POST /pedidos Invalid status code: 1885
+2021-06-02T02:29:30.977Z [Delivery_API] info: API Started !
+2021-06-02T02:29:35.929Z [Delivery_API] error: POST /pedidos Invalid status code: undefined
+2021-06-02T02:29:53.231Z [Delivery_API] info: API Started !
+2021-06-02T02:29:55.119Z [Delivery_API] error: POST /pedidos Invalid status code: 1885
+2021-06-02T02:30:28.210Z [Delivery_API] info: API Started !
+2021-06-02T02:30:29.903Z [Delivery_API] error: POST /pedidos Invalid status code: 1885
+2021-06-02T02:30:49.921Z [Delivery_API] info: API Started !
+2021-06-02T02:31:13.830Z [Delivery_API] info: API Started !
+2021-06-02T02:31:15.659Z [Delivery_API] error: POST /pedidos 200 is not a function
+2021-06-02T02:31:45.949Z [Delivery_API] info: API Started !
+2021-06-02T02:31:47.521Z [Delivery_API] error: POST /pedidos Invalid status code: 1885
+2021-06-02T02:32:44.972Z [Delivery_API] info: API Started !
+2021-06-02T02:32:47.001Z [Delivery_API] error: POST /pedidos Invalid status code: 1885
+2021-06-02T02:32:48.553Z [Delivery_API] error: POST /pedidos Invalid status code: 1885
+2021-06-02T02:33:06.236Z [Delivery_API] info: API Started !
+2021-06-02T02:33:42.592Z [Delivery_API] error: POST /pedidos Invalid status code: 1885
+2021-06-02T02:36:03.492Z [Delivery_API] info: API Started !
+2021-06-02T02:36:05.016Z [Delivery_API] error: POST /pedidos Invalid status code: 1885
+2021-06-02T02:36:21.588Z [Delivery_API] info: API Started !
+2021-06-02T02:36:22.998Z [Delivery_API] error: POST /pedidos Invalid status code: 1885
+2021-06-02T02:37:11.977Z [Delivery_API] info: API Started !
+2021-06-02T02:37:14.126Z [Delivery_API] error: POST /pedidos Invalid status code: 1885
+2021-06-02T02:39:11.907Z [Delivery_API] info: API Started !
+2021-06-02T02:39:35.559Z [Delivery_API] info: API Started !
+2021-06-02T02:39:38.753Z [Delivery_API] error: POST /pedidos Invalid status code: 1885
+2021-06-02T02:39:41.522Z [Delivery_API] info: POST /pedidos/maisVendidos 
+2021-06-02T02:39:44.312Z [Delivery_API] info: POST /pedidos/TotalCliente - Tália Simas
+2021-06-02T02:40:26.432Z [Delivery_API] info: POST /pedidos/TotalCliente - Tália Simas
+2021-06-02T02:40:54.890Z [Delivery_API] error: POST /pedidos Invalid status code: 0
+2021-06-02T02:41:02.010Z [Delivery_API] info: POST /pedidos/TotalCliente - Clotilde Godoy
+2021-06-02T02:41:21.396Z [Delivery_API] error: POST /pedidos Invalid status code: 0
+2021-06-02T02:41:32.245Z [Delivery_API] error: POST /pedidos Invalid status code: 1799.5
+2021-06-02T02:41:57.730Z [Delivery_API] error: POST /pedidos Invalid status code: 1914
+2021-06-02T02:42:18.945Z [Delivery_API] info: POST /pedidos/maisVendidos 
+2021-06-02T02:43:48.620Z [Delivery_API] info: POST /pedidos
+2021-06-02T02:43:48.906Z [Delivery_API] info: API Started !
+2021-06-02T02:44:06.288Z [Delivery_API] info: PATCH /pedidos/atualizarentrega {"id":501,"entregue":1}
+2021-06-02T02:44:06.564Z [Delivery_API] info: API Started !
+2021-06-02T02:44:27.032Z [Delivery_API] info: POST /pedidos/TotalCliente - Rosaura Azenha
+2021-06-02T02:44:54.490Z [Delivery_API] error: POST /pedidos Invalid status code: 1976
+2021-06-02T02:45:16.066Z [Delivery_API] info: DELETE /pedidos/:id - 317
+2021-06-02T02:45:16.350Z [Delivery_API] info: API Started !
+2021-06-02T02:45:35.735Z [Delivery_API] error: POST /pedidos Invalid status code: 2048
+2021-06-02T02:46:05.639Z [Delivery_API] error: GET /pedidos Registro não encontrado.
+2021-06-02T02:46:11.788Z [Delivery_API] info: GET / pedido/:id
+2021-06-02T02:46:30.335Z [Delivery_API] info: GET / pedido/:id
+2021-06-02T03:16:15.205Z [Delivery_API] info: API Started !
+2021-06-02T03:18:42.399Z [Delivery_API] info: API Started !
+2021-06-02T03:18:55.568Z [Delivery_API] info: API Started !
+2021-06-02T03:19:08.736Z [Delivery_API] error: POST /pedidos Invalid status code: 2048
+2021-06-02T03:19:10.523Z [Delivery_API] error: POST /pedidos Invalid status code: 2048
